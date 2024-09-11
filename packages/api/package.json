@@ -7,7 +7,7 @@
   },
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/vuejs/vue-devtools.git",
+    "url": "https://github.com/vuejs/vue-devtools.git",s
     "type": "git",
     "directory": "packages/api"
   },
